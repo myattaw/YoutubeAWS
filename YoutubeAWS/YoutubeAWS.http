@@ -1,0 +1,6 @@
+@YoutubeAWS_HostAddress = http://localhost:5278
+
+GET {{YoutubeAWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
